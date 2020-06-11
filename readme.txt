@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Add something.
 Creating a new branch is quick.
+Never say never.
